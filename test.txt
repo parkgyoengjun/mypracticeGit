@@ -1,1 +1,2 @@
 1.text.txt 생성 및 첫 커밋
+2.add 랑 commit 다른 방식으로 연습
