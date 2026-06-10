@@ -2,3 +2,4 @@
 2.add 랑 commit 다른 방식으로 연습
 4.d practice branch 1
 5. practice branch 2
+6. branch github add
